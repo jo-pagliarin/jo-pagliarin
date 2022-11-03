@@ -1,0 +1,11 @@
+Módulo 1 - Introdução: 
+definições e fundamentos sobre bioinformática, biologia computacional, ciência da computação, algoritmos, problemas, estruturas de dados, programa, linguagem de programação, compilador, componentes de um computador e sua relação com a programação, complexidade de algoritmos.
+
+Módulo 2 - Programação: 
+linguagem Python, Python na bioinformática, sintaxe básica de Python variáveis, tipos variáveis (conjuntos, tuplas, listas, dicionários), operadores aritméticos, comparadores de cadeias de caracteres, operadores lógicos, estruturas condicionais, estruturas de repetição definidas e indefinidos, controle de laços, entrada e saída, impressão formatada, modularização de código (subrotinas e módulos), expressões regulares.
+
+Módulo 3 - Análise da complexidade de algoritmos: 
+funções de complexidade de algoritmos, análises de melhor caso, caso médio e pior caso, algoritmos ótimos, comportamento assintótico de funções de complexidade, dominação assintótica, notação O, classes de complexidade, diversos exemplos envolvendo, entre outros, algoritmos de pesquisa.
+
+Módulo 4 - Algoritmos para bioinformática: 
+conceito de paradigma em computação, programação dinâmica, exemplo do jogo das fichas, problema do turista em Manhattan, métricas de distância entre sequências (Hamming e Levenshtein), problema da máxima subsequência comum, algoritmo de needleman-wunsch, algoritmo de smith-waterman, esquemas de pontuação e matrizes de substituição, alinhamentos par-a-par, alinhamentos múltiplos, alinhamentos globais, alinhamentos locais, heurísticas.
